@@ -1,5 +1,4 @@
-# Optimization-For-Data-Science
-Course: Optimization for Data Science
+# Course: Optimization For Data Science
 
 Lecturer: [Bijan Ahmadi Kakavandi](http://facultymembers.sbu.ac.ir/bijanahmadi/) <br>
 The Webpage of the Course: [Optimization for Data Science](http://facultymembers.sbu.ac.ir/bijanahmadi/teaching/optimization-for-data-science/) <br>
