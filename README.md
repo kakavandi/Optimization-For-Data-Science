@@ -22,10 +22,13 @@ The Webpage of the Course: [Optimization for Data Science](http://facultymembers
 
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
-In this course
+The course will cover optimization techniques used especially for machine learning and data 
+science. Because these fields typically give rise to very large instances, first-order optimization 
+(gradient-based) methods are typically preferred.
 ```
+
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 2](/Images/shalev-shwartz-1x.jpg) 
+![Book 1](/Images/ConvexOpt.jpg) ![Book 2](/Images/Shalev-Shwartz.jpg) 
 
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
 
