@@ -22,15 +22,16 @@ The Webpage of the Course: [Optimization for Data Science](http://facultymembers
 
 ## <a name="Course-Overview"></a>Course Overview:
 ```javascript
-The course will cover optimization techniques used especially for machine learning and data 
-science. Because these fields typically give rise to very large instances, first-order optimization 
+The course will cover optimization techniques used especially for machine learning and data science. 
+Because these fields typically give rise to very large instances, first-order optimization 
 (gradient-based) methods are typically preferred.
 ```
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 ![Book 1](/Images/ConvexOpt.jpg) ![Book 2](/Images/Shalev-Shwartz.jpg) 
 
-* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning), by Shai Shalev-Shwartz and Shai Ben-David <br>
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by S. Boyd and L. Vandenberghe 
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) by Shai Shalev-Shwartz and Shai Ben-David <br>
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 Useful [Slides](http://www.cs.cmu.edu/~pradeepr/convexopt/) by 	Pradeep Ravikumar and Aarti Singh  <br>
