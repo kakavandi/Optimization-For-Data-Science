@@ -18,6 +18,7 @@
 
 
 #### Slides
+##### Hyperparameter Optimization for Machine Learning
 - [Hyperparameter Optimization for Machine Learning](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_optimization_zahra_taheri.pdf) by Zahra Taheri
 #### Papers
 ##### Cross Validation for Hyperparameter Tuning
