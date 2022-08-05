@@ -16,7 +16,7 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 
 ## Students projects
 
-| Name                      | Data      | GitHub Repo link                                                                                                                                  |
+| Name                      | Data      | GitHub Repository Link                                                                                                                                  |
 | ------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sana Aria                 | ESOL      | [https://github.com/sanaaria/Hyperparameter-Optimization](https://github.com/sanaaria/Hyperparameter-Optimization)                                |
 | Samira Moradzade          | BBBP      | [https://github.com/sanaaria/Hyperparameter-Optimizationn](https://github.com/sanaaria/Hyperparameter-Optimization)                               |
