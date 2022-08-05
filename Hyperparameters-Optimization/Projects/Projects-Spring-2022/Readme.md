@@ -23,6 +23,6 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 | Arash Sajjadi             | BBBP, HIV | [https://github.com/arashsajjadi/Hyper-parameter-optimization](https://github.com/arashsajjadi/Hyper-parameter-optimization)                      |
 | Seyed Mahmoud Hashempour  | FreeSolv  | [https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv\_2](https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv_2) |
 | Sajjad Sehatbakhsh        | ClinTox   | [https://github.com/sajjadsehat/Optimization-project.](https://github.com/sajjadsehat/Optimization-project.)                                      |
-| Ahmad Yazdani             | Lipo      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
-| Mohammad javad Abbas pour | Bace      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+| Ahmad Yazdani             | Lipophilicity      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+| Mohammad javad Abbas pour | BACE      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
 
