@@ -3,6 +3,8 @@
 
 **Co-Lecturer:** [Zahra Taheri](https://github.com/zahta)
 
+-------------------------------
+
 Hyperparameters optimization is the procedure of finding the best combination of hyperparameters to achieve maximum performance on data in a reasonable amount of time. The goal is to find values for the hyperparameters that produce the best model according to some criterion, such as minimizing mean squared error or maximizing prediction accuracy. There are several ways to optimize hyperparameters, and no one method is guaranteed to be better than another. Some typical techniques include grid search, random search, and Bayesian optimization.
 
 # Table of Contents
