@@ -16,13 +16,13 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 
 ## Students projects
 
-|                           | Data      | GitHub Repository link                                                                                                                                  |
+| Name                      | Data      | GitHub Repo link                                                                                                                                  |
 | ------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sana Aria                 | ESOL      | [https://github.com/sanaaria/Hyperparameter-Optimization](https://github.com/sanaaria/Hyperparameter-Optimization)                                |
 | Samira Moradzade          | BBBP      | [https://github.com/sanaaria/Hyperparameter-Optimizationn](https://github.com/sanaaria/Hyperparameter-Optimization)                               |
 | Arash Sajjadi             | BBBP, HIV | [https://github.com/arashsajjadi/Hyper-parameter-optimization](https://github.com/arashsajjadi/Hyper-parameter-optimization)                      |
 | Seyed Mahmoud Hashempour  | FreeSolv  | [https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv\_2](https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv_2) |
 | Sajjad Sehatbakhsh        | ClinTox   | [https://github.com/sajjadsehat/Optimization-project.](https://github.com/sajjadsehat/Optimization-project.)                                      |
-| Ahmad Yazdani             | Lipophilicity      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
-| Mohammad javad Abbas pour | BACE      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+| Ahmad Yazdani             | Lipo      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+| Mohammad javad Abbas pour | Bace      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
 
