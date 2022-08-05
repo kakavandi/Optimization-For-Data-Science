@@ -13,3 +13,16 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 - **FreeSolv** is selected from the Free Solvation Database, which contains the hydration free energy of small molecules in water from both experiments and alchemical free energy calculations. FreeSolv is a physical chemistry dataset containing 642 compounds.
 - **ESOL** is a small dataset consisting of water solubility data for some compounds. ESOL is a physical chemistry dataset containing 1128 compounds.
 - **Lipophilicity** is a dataset which is curated from ChEMBL database. It is about an important feature of drug molecules that affects both membrane permeability and solubility. Lipophilicity is a physical chemistry dataset containing 4200 compounds.
+
+## Students projects
+
+|                           | Data      | GitHub Repository link                                                                                                                                  |
+| ------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sana Aria                 | ESOL      | [https://github.com/sanaaria/Hyperparameter-Optimization](https://github.com/sanaaria/Hyperparameter-Optimization)                                |
+| Samira Moradzade          | BBBP      | [https://github.com/sanaaria/Hyperparameter-Optimizationn](https://github.com/sanaaria/Hyperparameter-Optimization)                               |
+| Arash Sajjadi             | BBBP, HIV | [https://github.com/arashsajjadi/Hyper-parameter-optimization](https://github.com/arashsajjadi/Hyper-parameter-optimization)                      |
+| Seyed Mahmoud Hashempour  | FreeSolv  | [https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv\_2](https://github.com/Mahmoud4812/Hyperparameter-optimization--freesolv_2) |
+| Sajjad Sehatbakhsh        | ClinTox   | [https://github.com/sajjadsehat/Optimization-project.](https://github.com/sajjadsehat/Optimization-project.)                                      |
+| Ahmad Yazdani             | Lipophilicity      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+| Mohammad javad Abbas pour | BACE      | [https://github.com/mAbbaspour/Hyperparameter-Optimization](https://github.com/mAbbaspour/Hyperparameter-Optimization)                            |
+
