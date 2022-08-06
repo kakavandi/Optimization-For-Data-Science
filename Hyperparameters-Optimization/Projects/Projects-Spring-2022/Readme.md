@@ -9,7 +9,7 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 - **BBBP** (Blood-brain barrier penetration) dataset comes from a recent study on the modeling and prediction of barrier permeability. This dataset provides records of whether a compound is permeable to the blood-brain barrier. BBBP is a physiology dataset containing 2039 compounds.
 - **ClinTox** dataset compares drugs approved by the FDA and drugs that have failed clinical trials for toxicity reasons. ClinTox is a physiology dataset containing 1478 compounds.
 - **BACE** dataset provides binding results for a set of inhibitors of human β-secretase 1 (BACE-1) in the past few years. BACE is a biophysics dataset containing 1513 compounds.
-- **HIV** dataset was introduced by the Drug Therapeutics Program (DTP) AIDS Antiviral Screen, which tested the ability to inhibit HIV replication for over some compounds. HIV is a biophysics dataset containing 41127 compounds.
+- **HIV** dataset was introduced by the Drug Therapeutics Program (DTP) AIDS Antiviral Screen, which tested the ability to inhibit HIV replication for some compounds. HIV is a biophysics dataset containing 41127 compounds.
 
 ## Regression Datasets
 - **FreeSolv** is selected from the Free Solvation Database, which contains the hydration free energy of small molecules in water from both experiments and alchemical free energy calculations. FreeSolv is a physical chemistry dataset containing 642 compounds.
