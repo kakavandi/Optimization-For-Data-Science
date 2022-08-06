@@ -1,6 +1,8 @@
 
 # Hyperparameter optimization of deep neural networks with Pytorch and Ray Tune
 
+<div align="justify">
+
 In this project, students optimize hyperparameters of deep neural networks (DNN) on some popular benchmark datasets from [MoleculeNet](https://moleculenet.org/), including both classification and regression tasks. The target columns of each dataset are extracted from its corresponding MoleculeNet dataset. Also, 200 features containing global molecular information, extracted by [RDKit](https://www.rdkit.org/) package and CDF normalized by [Descriptastorus](https://github.com/bp-kelley/descriptastorus) package, are utilized as input features. In the following, some details about the benchmarks are provided.
 
 ## Classification Datasets
@@ -13,6 +15,8 @@ In this project, students optimize hyperparameters of deep neural networks (DNN)
 - **FreeSolv** is selected from the Free Solvation Database, which contains the hydration free energy of small molecules in water from both experiments and alchemical free energy calculations. FreeSolv is a physical chemistry dataset containing 642 compounds.
 - **ESOL** is a small dataset consisting of water solubility data for some compounds. ESOL is a physical chemistry dataset containing 1128 compounds.
 - **Lipophilicity** is a dataset which is curated from ChEMBL database. It is about an important feature of drug molecules that affects both membrane permeability and solubility. Lipophilicity is a physical chemistry dataset containing 4200 compounds.
+
+</div>
 
 ## Students projects
 
