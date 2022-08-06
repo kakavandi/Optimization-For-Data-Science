@@ -13,6 +13,8 @@ Hyperparameters optimization is the procedure of finding the best combination of
     - [Hyperparameter Optimization for Machine Learning](#hyperparameter-optimization-for-machine-learning)
   - [Tutorials](#tutorials)
     - [Hyperparameter Optimization with Pytorch and Ray Tune](#hyperparameter-optimization-with-pytorch-and-ray-tune)
+  - [Projects](#projects)
+    - [Projects-Spring-2022](#projects-spring-2022)
   - [Papers](#papers)
     - [Cross Validation for Hyperparameter Tuning](#cross-validation-for-hyperparameter-tuning)
   - [Best Tools for Hyperparameter Optimization](#best-tools-for-hyperparameter-optimization)
@@ -35,6 +37,9 @@ Hyperparameters optimization is the procedure of finding the best combination of
 ### Hyperparameter Optimization with Pytorch and Ray Tune
 - [A Classification Task](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_tuning_pytorch_ray_tune_classification.ipynb) by Zahra Taheri
 - [A Regression Task](https://github.com/zahta/machine-learning/blob/master/hyperparameters-optimization/hyperparameter_tuning_pytorch_ray_tune_regression.ipynb) by Zahra Taheri
+## Projects
+### Projects-Spring-2022
+- [Hyperparameter optimization of deep neural networks with Pytorch and Ray Tune](https://github.com/zahta/Optimization-For-Data-Science/tree/master/Hyperparameters-Optimization/Projects/Projects-Spring-2022)
 ## Papers
 ### Cross Validation for Hyperparameter Tuning
 - [Performance-Estimation Properties of Cross-Validation-Based Protocols with Simultaneous Hyper-Parameter Optimization](https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230?src=recsys) by Ioannis Tsamardinos, Amin Rakhshani and Vincenzo Lagani
