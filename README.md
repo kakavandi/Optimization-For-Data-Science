@@ -10,6 +10,7 @@
 - [Course Overview](#Course-Overview)
 - [Main TextBooks](#Main-TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
+- [Additional Concepts and Projects](#Additional-Concepts-and-Projects)
 - [Class Time and Location](#Class-Time-and-Location)
 - [Grading](#Grading)
 - [Prerequisites](#Prerequisites)
@@ -34,6 +35,8 @@ Because these fields typically give rise to very large instances, first-order op
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 Useful [Slides](http://www.cs.cmu.edu/~pradeepr/convexopt/) by 	Pradeep Ravikumar and Aarti Singh  <br>
 
+## <a name="Additional-Concepts-and-Projects"></a>Additional Concepts and Projects:
+Some additional concepts about [hyperparameters optimization](https://github.com/kakavandi/Optimization-For-Data-Science/tree/master/Hyperparameters-Optimization) for machine learning and student projects related to these topics (Spring 2022) <br>
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Saturday and Monday 13:30-15:00 AM (Spring 2019), Room 204/1. 
